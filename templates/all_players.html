@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}Search Player{% endblock %}
+
+{% block content %}
+<h1>All Players</h1>
+{{ data.to_html(classes="table table-striped") | safe}}
+{% endblock %}
