@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+{% extends "base.html" %}
+<html>
+<head>
+ <title></title>
+ <meta charset="utf-8" />
+</head>
+{% block content %}
+<body> 
+<div class="bd-example" align="middle">
+<img src="{{ url_for('static', filename=graph) }}" /> 
+</div>
+</body>
+{% endblock %}
+</html>

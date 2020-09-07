@@ -1,0 +1,47 @@
+altair==4.1.0
+attrs==20.2.0
+beautifulsoup4==4.9.1
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+cycler==0.10.0
+Deprecated==1.2.10
+entrypoints==0.3
+Flask==1.1.2
+idna==2.10
+importlib-metadata==1.7.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+jsonschema==3.2.0
+kiwisolver==1.2.0
+lxml==4.5.2
+MarkupSafe==1.1.1
+matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1597876320876/work
+mkl-fft==1.1.0
+mkl-random==1.1.0
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233707986/work
+olefile==0.46
+pandas @ file:///tmp/build/80754af9/pandas_1598371486213/work
+patsy==0.5.1
+Pillow @ file:///tmp/build/80754af9/pillow_1594307325547/work
+pybaseball==2.0.0
+PyGithub==1.53
+PyJWT==1.7.1
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+requests==2.24.0
+scipy @ file:///tmp/build/80754af9/scipy_1597686620742/work
+seaborn==0.10.1
+sip==4.19.24
+six==1.15.0
+soupsieve==2.0.1
+statsmodels==0.11.1
+toolz==0.10.0
+tornado==6.0.4
+urllib3==1.25.10
+Werkzeug==1.0.1
+wrapt==1.12.1
+zipp==3.1.0
