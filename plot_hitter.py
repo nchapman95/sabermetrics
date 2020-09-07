@@ -31,7 +31,7 @@ class hitter:
         # here is the trick save your figure into a bytes object and you can afterwards expose it via flas
         
         for filename in os.listdir('static/'):
-            if filename.startswith('graph_'):  # not to remove other images
+            if filename.startswith('graph'):  # not to remove other images
                 os.remove('static/' + filename)
         new_graph_name = "graph" + str(time.time()) + ".png"
         plt.savefig("/home/ec2-user/book_library_app/static/{}".format(new_graph_name),format='png')
