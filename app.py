@@ -37,5 +37,5 @@ def search():
     else:
         return render_template("search_player.html")
 
-app.run(host="ec2-35-164-225-152.us-west-2.compute.amazonaws.com", port=80, debug=True)
+app.run(host="ec2-52-26-254-252.us-west-2.compute.amazonaws.com", port=80, debug=True)
 
